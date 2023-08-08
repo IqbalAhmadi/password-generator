@@ -4,8 +4,8 @@ The **Password Generator** project is a simple web application that allows users
 
 ## Demo
 
-Here is a live demo of the **Password Generator** project: [Demo Link]()
-![Demo]()
+Here is a live demo of the **Password Generator** project: [Demo Link](https://iqbalahmadi.github.io/password-generator/)
+![Demo](./asset/Demo.gif)
 
 ## Features
 
